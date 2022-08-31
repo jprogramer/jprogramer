@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Joseph DEBBAH
+- 👀 I’m interested in Java, Kotlin, Gradle, Android and clean app design
+- 🌱 I’m currently learning Jetpack Compose and Kotlin coroutines
+- 💞️ I’m looking to collaborate on a modern Android project with kotlin/compose
+- 📫 youcef-debbah@hotmail.com
